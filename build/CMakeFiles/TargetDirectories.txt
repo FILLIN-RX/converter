@@ -1,0 +1,14 @@
+/home/ruxel/project/converter/build/CMakeFiles/learning_app.dir
+/home/ruxel/project/converter/build/CMakeFiles/edit_cache.dir
+/home/ruxel/project/converter/build/CMakeFiles/rebuild_cache.dir
+/home/ruxel/project/converter/build/CMakeFiles/list_install_components.dir
+/home/ruxel/project/converter/build/CMakeFiles/install.dir
+/home/ruxel/project/converter/build/CMakeFiles/install/local.dir
+/home/ruxel/project/converter/build/CMakeFiles/install/strip.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/flutter_assemble.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/edit_cache.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/rebuild_cache.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/list_install_components.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/install.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/install/local.dir
+/home/ruxel/project/converter/build/flutter/CMakeFiles/install/strip.dir
