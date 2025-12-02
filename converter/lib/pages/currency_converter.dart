@@ -35,6 +35,12 @@ class _CurrencyMaterial extends State<CurrencyConverter> {
   }
 
   @override
+  void dispose() {
+    textEditingController.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     // Define a reusable border style for the TextField focused/enabled states.
     // This keeps the visual appearance consistent and easy to change in one
@@ -73,7 +79,7 @@ class _CurrencyMaterial extends State<CurrencyConverter> {
               // Display the converted amount. The numeric value `result` is
               // interpolated into the string. Styling makes it prominent.
               Text(
-                'EUR ${result != 0 ? result.toStringAsFixed(2): result.toStringAsFixed(0)}', // Convert number to string via interpolation
+                'EUR ${result != 0 ? result.toStringAsFixed(2) : result.toStringAsFixed(0)}', // Convert number to string via interpolation
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
